@@ -22,5 +22,3 @@
     <img align="center"  alt="JAVA" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg"  height="30" width="40"/>
     
 </div><br/>
-
-#[![Snake Animation](https://github.com/Pedro-Rodrigues-12/Pedro-Rodrigues-12/blob/output/github-contribution-grid-snake.svg)
