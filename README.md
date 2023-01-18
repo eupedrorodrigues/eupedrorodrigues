@@ -11,7 +11,7 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pedro-Rodrigues-12&show_icons=true&theme=radical"/>
 </div>
 
-### | Tecnologias que estudei até o momento
+#### | Tecnologias que estudei até o momento
 
 <div style="display: inline_block"><br/>
     <img align="center"  alt="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" width="40"/>
