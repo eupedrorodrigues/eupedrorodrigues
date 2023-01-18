@@ -13,7 +13,7 @@
     <img align="center"  alt="JAVA" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg"  height="30" width="40"/>
 </div><br/>
 
-<hr/><br/>
+<hr/>
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pedrorsricardo12@gmail.com)
 [![LinkdIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-rodrigues-50986a262/)
