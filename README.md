@@ -8,8 +8,8 @@
 <br/>
 
 <div>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pedro-Rodrigues-12&show_icons=true&theme=radical"/>
-    <img height="180em"  width="380" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro-Rodrigues-12&show_icons=true&count_private=true&theme=dracula"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eupedrorodrigues&show_icons=true&theme=radical"/>
+    <img height="180em"  width="380" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eupedrorodrigues&show_icons=true&count_private=true&theme=dracula"/>
 </div>
 
 #### | Tecnologias:
