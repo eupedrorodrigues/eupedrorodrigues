@@ -8,7 +8,7 @@
 
 
 <div>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pedro Rodrigues&show_icons=true&theme=radical"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pedro-Rodrigues-12&show_icons=true&theme=radical"/>
 </div>
 
 ### | Tecnologias que estudei até o momento
