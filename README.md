@@ -9,8 +9,7 @@
 
 <div>
     <img  height="150em" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical"/>
-    <img  height="150em" width="380" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=eupedrorodrigues&layout=compact&langs_count=8&theme=radical"/> 
-    
+    <img  height="150em" width="380" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=eupedrorodrigues&layout=compact&langs_count=8&theme=radical"/>  
 </div>
 
 
