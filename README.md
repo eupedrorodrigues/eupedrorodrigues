@@ -20,7 +20,7 @@
     <img align="center"  alt="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" width="40" />
     <img align="center"  alt="Bootsrap" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" height="30" width="40" />
     <img align="center"  alt="javascript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"  height="30" width="40"/>
-    <img align="center"  alt="JAVA" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"  height="30" width="40"/>
-    <img align="center"  alt="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg"  height="40" width="50"/>
+    <img align="center"  alt="JAVA" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"  height="33" width="45"/>
+    <img align="center"  alt="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg"  height="50" width="60"/>
     
 </div><br/>
