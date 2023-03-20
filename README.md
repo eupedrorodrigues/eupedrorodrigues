@@ -24,5 +24,3 @@
     <img align="center"  alt="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg"  height="50" width="60"/>
     
 </div><br/>
-
-![Snake animation](https://github.com/eupedrorodrigues/eupedrorodrigues/blob/output/github-contribution-grid-snake.svg)
