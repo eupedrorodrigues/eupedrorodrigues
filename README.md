@@ -24,6 +24,7 @@
     <img align="center"  alt="SPRING" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg"  height="30" width="45"/>
     <img align="center"  alt="FIREBASE" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg"  height="38" width="45"/>
     <img align="center"  alt="AWS" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"  height="38" width="45"/>
+    <img align="center"  alt="PostgreSQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"  height="38" width="45"/>
     <img align="center"  alt="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg"  height="50" width="60"/>
     <img align="center"  alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"  height="30" width="40"/>
     
