@@ -2,7 +2,7 @@
 <br/>
 
 [![Gmail](https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=FFFFFF)](mailto:pedrorsrodrigues1203@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=FFFFFF)](https://www.linkedin.com/in/pedro-rodrigues)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=FFFFFF)](https://www.linkedin.com/in/pedro-rs-rodrigues)
 [![Telegram](https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=telegram&logoColor=FFFFFF)](https://t.me/eupedrorodrigues)
 
 
